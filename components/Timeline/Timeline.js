@@ -10,7 +10,10 @@ const TimelineComp = (props) => (
      circleColor='#1a0dab'
      lineColor='#1a0dab'
      timeContainerStyle={{minWidth:52}}
-     timeStyle={{textAlign: 'center', backgroundColor:'#ff9797', color:'white', padding:5, borderRadius:13, marginBottom: 80}}
+     timeStyle={{
+                textAlign: 'center', 
+                backgroundColor:'#ff9797',
+                color:'white', padding:5, borderRadius:13, marginBottom: 80 }}
      descriptionStyle={{color:'gray'}}
      options={{
        style:{paddingTop:60}
