@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     fontSize: 28
   },
   header: {
+   backgroundColor: 'blue',
    paddingTop: Constants.statusBarHeight,
    height: 54 + Constants.statusBarHeight,
  },
