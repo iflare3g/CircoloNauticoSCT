@@ -37,7 +37,7 @@ class AboutUsScreen extends Component {
   render(){
     return(
       <Container>
-        <CommonHeader title="Chi siamo" navigation={this.props.navigation} />
+        <CommonHeader title="Chi siamo" navigation={this.props.navigation}/>
         <Content>
           <Card>
             <CardItem>
